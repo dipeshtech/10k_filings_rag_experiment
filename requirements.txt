@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+langchain_core
+langchain-community
+langchainhub
+openai
+pymupdf
+PyPDF2
+pandas
+faiss-cpu
+tiktoken
+ragas
+chardet
+charset-normalizer  
+streamlit
+chainlit
